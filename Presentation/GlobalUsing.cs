@@ -1,0 +1,10 @@
+﻿global using Core.Line.Bot;
+global using Core.Line.Liff;
+global using Core.Web;
+global using Infrastructure.Data.Sqllite;
+global using MediatR;
+// for controller
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Razor;
+global using Presentation.Models;
+global using System.Diagnostics;

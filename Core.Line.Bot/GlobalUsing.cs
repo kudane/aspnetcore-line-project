@@ -1,0 +1,10 @@
+﻿global using Core.Line.Bot.Case;
+global using Core.Line.Bot.Sheared;
+global using Line;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using NetCore.AutoRegisterDi;
+global using System.Reflection;
+global using System.Text;
